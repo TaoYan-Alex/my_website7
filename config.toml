@@ -1,4 +1,4 @@
-baseURL = "https://Tao_Website.com/"
+baseURL = "https://tao-portfolio-website.netlify.app/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "mediumish-gohugo-theme"

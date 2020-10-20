@@ -1,0 +1,52 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Mediumish"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "John Doe - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="the clean blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Tao Yan"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/Tao_Yan.jpg"
+  title = "Tao Yan"
+  subtitle = "Master's student at LBS with a passion for finance!"
+  mdtext = '''
+Early careers individual with an interest in investment banking, looking to bring energy and drive into the workplace!\
+### Find out more about me!
+'''
+  alertbar = false
+
+[params.social]
+  github = "TaoYan-Alex"
+  linkedin = "Tao (Alex) Yan"
+  instagram = "alexyan_ty"
+
+## Main Menu
+[[menu.main]]
+    name = "About Me"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/Tao_Yan_CV.pdf"
+[[menu.main]]
+    name = "My Work"
+    identifier = "about"
+    weight = 200
+    url = "/blog/Project.html"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"

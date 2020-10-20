@@ -35,7 +35,7 @@ Early careers individual with an interest in investment banking, looking to brin
 
 ## Main Menu
 [[menu.main]]
-    name = "About Me"
+    name = "My CV"
     weight = 100
     identifier = "blog"
     url = "/blog/Tao_Yan_CV.pdf"

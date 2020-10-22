@@ -37,8 +37,8 @@ Early careers individual with an interest in investment banking, looking to brin
 [[menu.main]]
     name = "About Me"
     weight = 100
-    identifier = "blog"
-    url = "/blog"
+    identifier = "Me"
+    url = "/blog/fifth.md"
 [[menu.main]]
     name = "My CV"
     weight = 100

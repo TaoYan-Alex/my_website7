@@ -40,7 +40,7 @@ Early careers individual with an interest in investment banking, looking to brin
     identifier = "Me"
     url = "/blog/fifth.md"
 [[menu.main]]
-    name = "My"
+    name = "My CV"
     weight = 100
     identifier = "blog"
     url = "/blog/Tao_Yan_CV.pdf"

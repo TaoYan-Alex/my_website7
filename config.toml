@@ -1,6 +1,6 @@
 baseURL = "https://tao-portfolio-website.netlify.app/"
 languageCode = "en-us"
-title = "Mediumish"
+title = "Tao's Website"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "John Doe - All rights reserved"

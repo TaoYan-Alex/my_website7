@@ -45,12 +45,12 @@ Early careers individual with an interest in investment banking, looking to brin
     identifier = "blog"
     url = "/blog/Tao_Yan_CV.pdf"
 [[menu.main]]
-    name = "My Work on Airbnb"
+    name = "Group Work on Airbnb"
     identifier = "about"
     weight = 200
     url = "/blog/Project.html"
 [[menu.main]]
-    name = "My Analysis of Yield Curve"
+    name = "Using R for Analysis"
     identifier = "imprint"
     weight = 200
     url = "/blog/Group-19_Hmk3.html"
